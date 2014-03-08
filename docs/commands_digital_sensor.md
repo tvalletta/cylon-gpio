@@ -10,7 +10,7 @@ Returns an integer value that represents the digital read from the sensor.
 
 ##### Returns 
 
-`integer` Current digitalQaqaqaqaqaqaqaqaqaqaqaqa sensor value.
+`integer` Current digital sensor value.
 
 ## upperLimit(limit)
 
